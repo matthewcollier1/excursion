@@ -1,13 +1,17 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
 .header {
-  font-family: "Verdana" sans-serif;
+  font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
   text-align: center;
 }
 
-a {
+.links {
   text-align: center;
-  color: aquarmarine;
-  font-size: 16px;
+  color: aquamarine;
 }
